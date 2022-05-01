@@ -12,6 +12,3 @@ npm run serve
 
 ### Code of the task can be found in src/components/ToDoList.vue file
 
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
